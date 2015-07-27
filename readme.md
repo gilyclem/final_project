@@ -101,7 +101,7 @@ I vantaggi principali:
 
 ![Alt text](img/TOILET_OUTBOARD_SIDEBYSIDE.jpg)
 
-![Alt text](img/OUTBOARD.jpg)
+![Alt text](img/OUTBOARD.png)
 
 * Partizioni interne di tipo mobile per garantire la privacy nelle stanze doppie pur favorendo la socializzazione
 * Infissi esterni e sistemi di oscuramento: vetri oscurati
