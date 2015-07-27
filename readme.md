@@ -117,8 +117,7 @@ I vantaggi principali:
 
 ###Legni
 
-|   |   |   |
-|![Alt text](img/base_legno.jpg)|![Alt text](img/base_legno2.jpg)|![Alt text](img/base_legno3.jpg)|
+![Alt text](img/legni.jpg)
 
 ###Marmi
 
