@@ -118,7 +118,6 @@ I vantaggi principali:
 ###Legni
 
 ![Alt text](img/legni.jpg)
-![Alt text](img/parquet.jpg)
 
 ###Marmi
 ![Alt text](img/marmi.jpg)
