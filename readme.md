@@ -140,39 +140,39 @@ I vantaggi principali:
 ![Alt text](img/2p.jpg)
 
 ###Modellazione degli arredi
-Letto
+###Letto
 ![Alt text](img/2.png)
 
-Comodino
+###Comodino
 ![Alt text](img/3.png)
 
-Armadio
+###Armadio
 ![Alt text](img/4.png)
 
-Divano
+###Divano
 ![Alt text](img/5.png)
 
-Tavolino e bajour
+###Tavolino e bajour
 ![Alt text](img/8.png)
 
-Consolle e bajour
+###Consolle e bajour
 ![Alt text](img/9.png)
 
-Lampada
+###Lampada
 ![Alt text](img/10.png)
 
-Televisore
+###Televisore
 ![Alt text](img/11.png)
 
 ###Servizi igienici
 
-Wc 
+###Wc 
 ![Alt text](img/13.png)
 
-Lavabo
+###Lavabo
 ![Alt text](img/12.png)
 
-Doccia
+###Doccia
 ![Alt text](img/14.png)
 
 ###Sala con nurse station per informazioni e attesa dei visitatori all'ingresso del reparto
