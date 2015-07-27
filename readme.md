@@ -183,12 +183,27 @@ I vantaggi principali:
 
 ![Alt text](img/3p.jpg)
 
+###Poltrona
+![Alt text](img/6.png)
+
+###Sedia con braccioli
+![Alt text](img/7.png)
+
+###Finestra
+![Alt text](img/15.png)
+
 ##Caso di studio 2: Clinical Trial Centre - Chinese University Hong Kong
 
 ![Alt text](img/staff.jpg)
 
 ###Sala per lo staff
 Provvista di computer. Permette di sorvegliare la salute dei pazienti mediante i monitor.
+
+###Postazione al computer
+![Alt text](img/20.png)
+
+###Armadio a muro
+![Alt text](img/22.png)
 
 **Bibliografia**
 
