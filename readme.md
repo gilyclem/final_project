@@ -42,8 +42,6 @@
 * Ventilazione naturale e qualità dell'aria
 * Controllo del paziente da parte dello staff
 
-![Alt text](img/pianta.jpg)
-
 ##Evoluzione nell'architettura
 
 **Legenda**: 
@@ -77,6 +75,8 @@ I vantaggi principali:
 * Confidenzialità ed apertura nell'informare i pazienti;
 * Privacy e decoro;
 * Migliore contatto con familiari e staff.
+
+![Alt text](img/pianta.jpg)
 
 ##Aspetti dimensionali - Requisiti delle sale di degenza
 
