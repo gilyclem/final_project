@@ -76,6 +76,8 @@ I vantaggi principali:
 * Privacy e decoro;
 * Migliore contatto con familiari e staff.
 
+###Soluzione proposta
+
 ![Alt text](img/pianta.jpg)
 
 ##Aspetti dimensionali - Requisiti delle sale di degenza
@@ -112,6 +114,15 @@ I vantaggi principali:
 * Qualità estetica: colori e materiali selezionati per trasmettere all'utente un senso di accoglienza e naturalità;
 * Sicurezza;
 * In ogni camera le reti impiantistiche sono posate dietro pannelli removibili in legno.
+
+###Legni
+
+|   |   |   |
+|![Alt text](img/base_legno.jpg)|![Alt text](img/base_legno2.jpg)|![Alt text](img/base_legno3.jpg)|
+
+###Marmi
+
+###Vernici
 
 ##Tipologia degli arredi
 
