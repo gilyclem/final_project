@@ -87,9 +87,7 @@ I vantaggi principali:
 
  \* Pubblicato nella Gazzetta Ufficiale della Repubblica Italiana n.187
 
-**Camere singole**: superficie di 17mq per la stanza e circa 3,6mq per il bagno. Offrono la possibilità per un paziente di soggiornare in compagnia di un parente, soprattutto per quanto rigurda il reparto pediatrico.
-
-**Camere doppie**: superficie di 23mq per la camera e doppi servizi di 3,6mq.
+**Camere singole**: nella soluzione proposta le camere hanno una superficie di 28mq per la stanza e circa 6mq per il bagno. Offrono la possibilità per un paziente di soggiornare in compagnia di un parente, soprattutto per quanto rigurda il reparto pediatrico.
 
 ##Caratteristiche ambientali
 
@@ -102,6 +100,8 @@ I vantaggi principali:
 * Posizione del servizio igienico all’interno della stanza
 
 ![Alt text](img/TOILET_OUTBOARD_SIDEBYSIDE.jpg)
+
+![Alt text](img/OUTBOARD.jpg)
 
 * Partizioni interne di tipo mobile per garantire la privacy nelle stanze doppie pur favorendo la socializzazione
 * Infissi esterni e sistemi di oscuramento: vetri oscurati
@@ -135,13 +135,7 @@ I vantaggi principali:
 
 ![Alt text](img/3p.jpg)
 
-##Caso di studio 2: TC scan - Pediatric Ward New York Presbyterian
-![Alt text](img/ped.jpg)
-
-###Sala comune per bambini
-Si tratta di un ambiente che contiene molti giochi per bambini e un piccolo palco per produzioni teatrali. I bambini hanno un grande beneficio nello stare insieme.
-
-##Caso di studio 3: Clinical Trial Centre - Chinese University Hong Kong
+##Caso di studio 2: Clinical Trial Centre - Chinese University Hong Kong
 
 ![Alt text](img/staff.jpg)
 
