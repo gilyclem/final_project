@@ -42,6 +42,8 @@
 * Ventilazione naturale e qualità dell'aria
 * Controllo del paziente da parte dello staff
 
+![Alt text](img/pianta.jpg)
+
 ##Evoluzione nell'architettura
 
 **Legenda**: 
