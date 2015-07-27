@@ -3,30 +3,30 @@
 
 #Giulia Clementi
 
-  *  Introduzione: reparti ed attivit‡
+  *  Introduzione: reparti ed attivit√†
   *  Evoluzione nel design
   *  Normative
   *  Requisiti
-  *  Dettaglio di realizzazione per le diverse unit‡ ambientali
+  *  Dettaglio di realizzazione per le diverse unit√† ambientali
 
 #Introduzione
-##Reparti ed attivit‡
+##Reparti ed attivit√†
 ###Patient
 
 * *Outpatient*: paziente che visiti la clinica o l'ospedale per diagnosi o trattamenti di durata inferiore a ventiquattro ore;
 * *Inpatient* o *degente*: paziente che si trattenga nell'ospedale per un tempo determinato, in genere diversi giorni o qualche settimana, anni nel caso di pazienti in coma;
-* *Day-patient*: usufruisce dei servizi dell'ospedale ma non Ë previsto si trattenga a dormire.      
+* *Day-patient*: usufruisce dei servizi dell'ospedale ma non √® previsto si trattenga a dormire.      
 
 ###Inpatient ward
 
 * Reparto di ospedale che offra letti per degenti. Pazienti con simili esigenze di trattamento sono collocati nella stessa divisione.
 
 ###General ward
-* Reparto per pazienti che non hanno pi˘ strette esigenze di controllo da parte dello staff come in un reparto di terapia intensiva e che quindi stanno facendo un buon progresso nel processo di guarigione.
+* Reparto per pazienti che non hanno pi√π strette esigenze di controllo da parte dello staff come in un reparto di terapia intensiva e che quindi stanno facendo un buon progresso nel processo di guarigione.
 
 ###Surgical ward
 * Fase pre-operatoria: pre-medicazione, acquisizione del consenso scritto del paziente per l'operazione, analisi del sangue, braccialetto, allergie ed altre annotazioni;
-* Fase post-operatoria: il paziente Ë sotto osservazione, controllo di infezioni delle ferite e degli effetti collaterali post-operatori.
+* Fase post-operatoria: il paziente √® sotto osservazione, controllo di infezioni delle ferite e degli effetti collaterali post-operatori.
 
 ###Pediatric ward
 * Reparto specializzato in cure rivolte ad infanti, bambini ed adolescenti malati. 
@@ -34,12 +34,12 @@
 ##Esigenze dei fruitori
 
 * Decoro / privacy / spazio personale
-* Opportunit‡ di socializzazione
+* Opportunit√† di socializzazione
 * Sicurezza e controllo di infezioni
-* Qualit‡ della luce giornaliera
-* Vista all'esterno / paesaggio /attivit‡
+* Qualit√† della luce giornaliera
+* Vista all'esterno / paesaggio /attivit√†
 * Spazio al di la del letto per famiglia ed amici
-* Ventilazione naturale e qualit‡ dell'aria
+* Ventilazione naturale e qualit√† dell'aria
 * Controllo del paziente da parte dello staff
 
 ##Evoluzione nell'architettura
@@ -50,29 +50,29 @@
 
 ![Alt text](img/NIGHTINGALE.jpg)
 
-Dormitori *'nightingale'*, 1930 circa: ogni camerata ospita fino a 36 letti. Le finestre sono su entrambi i lati, accanto ai letti, pertanto i pazienti sono esposti a correnti d'aria e luce forte sugli occhi. Lo staff ha un tavolo/scrivania ad un capo del dormitorio. Di fronte alla stanza per lo staff Ë presente un servizio igienico. Dall'altro lato del dormitorio una sala comune di ritrovo. Problema evidente Ë quello della mancanza di privacy per i parienti. In versioni successive sono previste alcune camere pi˘ piccole o singole per pazienti con infezioni trasmissibili.
+Dormitori *'nightingale'*, 1930 circa: ogni camerata ospita fino a 36 letti. Le finestre sono su entrambi i lati, accanto ai letti, pertanto i pazienti sono esposti a correnti d'aria e luce forte sugli occhi. Lo staff ha un tavolo/scrivania ad un capo del dormitorio. Di fronte alla stanza per lo staff √® presente un servizio igienico. Dall'altro lato del dormitorio una sala comune di ritrovo. Problema evidente √® quello della mancanza di privacy per i parienti. In versioni successive sono previste alcune camere pi√π piccole o singole per pazienti con infezioni trasmissibili.
 
 ![Alt text](img/BAYS.jpg)
 
-Divisione in *'bays'*, 1980 circa: ogni bay ospita 6, a volte 4 letti, in stanze situate lungo un corridoio principale, con sanitari e sale per il personale sul lato opposto. Un'unit‡ di cura consiste di quattro o cinque bays, una sala infermieri e quattro camere singole.
+Divisione in *'bays'*, 1980 circa: ogni bay ospita 6, a volte 4 letti, in stanze situate lungo un corridoio principale, con sanitari e sale per il personale sul lato opposto. Un'unit√† di cura consiste di quattro o cinque bays, una sala infermieri e quattro camere singole.
 I vantaggi principali:
 
-* Il traffico principale Ë separato dalle zone con i letti;
-* I pazienti hanno le finestre a lato perciÚ non soffrono per i raggi solari;
+* Il traffico principale √® separato dalle zone con i letti;
+* I pazienti hanno le finestre a lato perci√≤ non soffrono per i raggi solari;
 * Maggiore privacy.
 
 ![Alt text](img/STANZE_SINGOLE.jpg)
 
-*Stanze individuali*, ospedali in costruzione: la scelta Ë guidata dalle crescenti aspettative dei pazienti, dalla necessit‡ di privacy e dalla nascita dei 'superbug', ceppi di batteri che hanno sviluppato resistenza agli antibiotici. I contro di questa organizzazione sono la crescita della superficie necessaria e dei costi di realizzazione, la mancanza di socializzazione. L'idea che la supervisione di stanze singole richieda pi˘ staff Ë stata rigettata.
+*Stanze individuali*, ospedali in costruzione: la scelta √® guidata dalle crescenti aspettative dei pazienti, dalla necessit√† di privacy e dalla nascita dei 'superbug', ceppi di batteri che hanno sviluppato resistenza agli antibiotici. I contro di questa organizzazione sono la crescita della superficie necessaria e dei costi di realizzazione, la mancanza di socializzazione. L'idea che la supervisione di stanze singole richieda pi√π staff √® stata rigettata.
 I vantaggi principali:
 
 * Maggior controllo delle infezioni;
 * Minimizzazione dei trasferimenti dei pazienti;
 * Le ammissioni possono essere effettuate durante tutto l'arco della giornata senza disturbare gli altri pazienti;
-* Tranquillit‡ e silenzio per dormire;
+* Tranquillit√† e silenzio per dormire;
 * Controllo dell'ambiente;
 * Privacy per pratiche culturali e religiose;
-* Confidenzialit‡ ed apertura nell'informare i pazienti;
+* Confidenzialit√† ed apertura nell'informare i pazienti;
 * Privacy e decoro;
 * Migliore contatto con familiari e staff.
 
@@ -85,36 +85,36 @@ I vantaggi principali:
 
  \* Pubblicato nella Gazzetta Ufficiale della Repubblica Italiana n.187
 
-**Camere singole**: superficie di 17mq per la stanza e circa 3,6mq per il bagno. Offrono la possibilit‡ per un paziente di soggiornare in compagnia di un parente, soprattutto per quanto rigurda il reparto pediatrico.
+**Camere singole**: superficie di 17mq per la stanza e circa 3,6mq per il bagno. Offrono la possibilit√† per un paziente di soggiornare in compagnia di un parente, soprattutto per quanto rigurda il reparto pediatrico.
 
 **Camere doppie**: superficie di 23mq per la camera e doppi servizi di 3,6mq.
 
 ##Caratteristiche ambientali
 
-* **Luminosit‡**: illuminazione generale 150-200 lux, illuminazione per esaminare i pazienti 500-750-1000 lux;
+* **Luminosit√†**: illuminazione generale 150-200 lux, illuminazione per esaminare i pazienti 500-750-1000 lux;
 * **Ventilazione naturale** garantita dalle finestre;
 * **Comfort termico ed acustico** garantito da pareti insonorizzate ed impianto di climatizzazione.
 
 ##Aspetti funzionali
 
-* Posizione del servizio igienico allíinterno della stanza
+* Posizione del servizio igienico all‚Äôinterno della stanza
 
 ![Alt text](img/TOILET_OUTBOARD_SIDEBYSIDE.jpg)
 
 * Partizioni interne di tipo mobile per garantire la privacy nelle stanze doppie pur favorendo la socializzazione
 * Infissi esterni e sistemi di oscuramento: vetri oscurati
 
-##Qualit‡ dei materiali di finitura
+##Qualit√† dei materiali di finitura
 
 * Punto di vista igienico: tutte le superfici devono essere lavabili;
-* Qualit‡ estetica: colori e materiali selezionati per trasmettere all'utente un senso di accoglienza e naturalit‡;
+* Qualit√† estetica: colori e materiali selezionati per trasmettere all'utente un senso di accoglienza e naturalit√†;
 * Sicurezza;
 * In ogni camera le reti impiantistiche sono posate dietro pannelli removibili in legno.
 
 ##Tipologia degli arredi
 
 * Ergonomia
-* Praticit‡ manutentiva
+* Praticit√† manutentiva
 * Valore estetico
 
 ##Caso di studio 1: American Hospital Dubai
