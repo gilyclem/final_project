@@ -205,6 +205,12 @@ Provvista di computer. Permette di sorvegliare la salute dei pazienti mediante i
 ###Armadio a muro
 ![Alt text](img/22.png)
 
+###Porta
+![Alt text](img/16.png)
+
+###Ascensore
+![Alt text](img/17.png)
+
 **Bibliografia**
 
 Modern Trends in Planning and Designing of Hospitals: Principles and Practice - Gupta, Kant - JAYPEE
