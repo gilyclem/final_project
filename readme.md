@@ -200,7 +200,7 @@ I vantaggi principali:
 Provvista di computer. Permette di sorvegliare la salute dei pazienti mediante i monitor.
 
 ###Postazione al computer
-![Alt text](img/20.png)
+![Alt text](img/19.png)
 
 ###Armadio a muro
 ![Alt text](img/22.png)
