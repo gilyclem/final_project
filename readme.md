@@ -121,17 +121,17 @@ I vantaggi principali:
 
 ###Stanza singola
 
-![Alt text](img/1.jpg)
+![Alt text](img/1p.jpg)
 
-![Alt text](img/2.jpg)
+![Alt text](img/2p.jpg)
 
 ###Sala con nurse station per informazioni e attesa dei visitatori all'ingresso del reparto
 
-![Alt text](img/4.jpg)
+![Alt text](img/4p.jpg)
 
 ###Sala comune per pazienti
 
-![Alt text](img/3.jpg)
+![Alt text](img/3p.jpg)
 
 ##Caso di studio 2: TC scan - Pediatric Ward New York Presbyterian
 ![Alt text](img/ped.jpg)
